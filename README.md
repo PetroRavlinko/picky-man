@@ -1,5 +1,5 @@
 # picky-man
-=======
+
 
 # Bookstore App Starter for Vaadin Flow
 
